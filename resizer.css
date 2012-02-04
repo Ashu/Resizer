@@ -51,6 +51,7 @@
 			#responsive_resize_container .resize_dropdown,
 			#responsive_resize_container a.resize,
 			#responsive_resize_container a.reset,
+			#responsive_resize_container a.reload,
 			#responsive_resize_container a.resizer_bigger,
 			#responsive_resize_container a.resizer_smaller{
 				border: 1px solid #333333;
@@ -61,6 +62,7 @@
 			#responsive_resize_container .resize_drop_selector:hover,
 			#responsive_resize_container a.resize:hover,
 			#responsive_resize_container a.reset:hover,
+			#responsive_resize_container a.reload:hover,
 			#responsive_resize_container a.resizer_bigger:hover,
 			#responsive_resize_container a.resizer_smaller:hover{
 				background: #333;
